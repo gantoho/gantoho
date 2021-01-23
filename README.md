@@ -1,1 +1,1 @@
-### Hello! my friend.
+思想驱动行为
