@@ -1,6 +1,3 @@
----
-ganto
----
 <div style="border: 1px solid #9c9c9c; border-radius: 5px; overflow: hidden;">
   <div style="background-color: #202124; display: flex; align-items: center; padding-left: 10px; padding-top: 8px;">
     <i style="width: 10px; height: 10px; border-radius: 50%; background-color: #ff5b51; margin-bottom: 8px;"></i>
