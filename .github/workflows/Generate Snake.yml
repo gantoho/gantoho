@@ -9,7 +9,7 @@ jobs:
     container: node:16.16.0
     steps:
       - name: Checkout
-        uses: actions/checkout@latest
+        uses: actions/checkout@3.6.0
       - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
