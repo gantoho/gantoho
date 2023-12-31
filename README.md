@@ -9,6 +9,7 @@ I’m glad you visited my GitHub homepage, you might want to know some informati
 <code><img height="20" src="./icons/typescript.png" alt="typescript" /></code>
 <code><img height="20" src="./icons/vue.svg" alt="vue" /></code>
 <code><img height="20" src="./icons/react.svg" alt="react" /></code>
+<code><img height="20" src="./icons/angular.svg" alt="angular" /></code>
 
 <code><img height="20" src="./icons/go.svg" alt="golang" /></code>
 <code><img height="20" src="./icons/rust.svg" alt="rust" /></code>
@@ -17,5 +18,6 @@ I’m glad you visited my GitHub homepage, you might want to know some informati
 <code><img height="20" src="./icons/goland.svg" alt="goland" /></code>
 <code><img height="20" src="./icons/git.png" alt="git" /></code>
 <code><img height="20" src="./icons/macos.svg" alt="macos" /></code>
+<code><img height="20" src="./icons/chrome.svg" alt="chrome" /></code>
 
 <img width="100%" src="./assets/github-snake-dark.svg" alt="snake" />
