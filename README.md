@@ -2,7 +2,7 @@
 I’m glad you visited my GitHub homepage, you might want to know some information about me:  
 - 💻 I'm a front-end developer currently expanding my tech stack  
 
-<code><img height="20" src="./icons/html5.gif" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="./icons/sass.svg" alt="sass" /></code>
 <code><img height="20" src="./icons/javascript.svg" alt="javascript" /></code>
