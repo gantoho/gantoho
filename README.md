@@ -1,8 +1,9 @@
 ### 👋 hi there  
-<img align="right" width="260" src="./icons/biplane.svg" alt="Golang" />  
+
+<img align="right" width="300" src="./icons/biplane.svg" alt="Golang" />  
 
 I’m glad you visited my GitHub homepage, you might want to know some information about me:  
-- 💻 I'm a front-end developer currently expanding my tech stack
+- 💻 I'm a front-end developer currently expanding my tech stack  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
@@ -21,4 +22,4 @@ I’m glad you visited my GitHub homepage, you might want to know some informati
 <code><img height="20" src="./icons/macos.svg" alt="macos" /></code>
 <code><img height="20" src="./icons/chrome.svg" alt="chrome" /></code>
 
-<img width="100%" src="./assets/github-snake-dark.svg" alt="snake" />
+<img width="50%" src="./assets/github-snake-dark.svg" alt="snake" />
