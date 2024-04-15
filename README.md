@@ -22,4 +22,4 @@ I’m glad you visited my GitHub homepage, you might want to know some informati
 <code><img height="20" src="./icons/macos.svg" alt="macos" /></code>
 <code><img height="20" src="./icons/chrome.svg" alt="chrome" /></code>
 
-<img width="65%" src="./assets/github-snake.svg" alt="snake" />
+<img width="65%" src="./assets/github-snake-dark.svg" alt="snake" />
