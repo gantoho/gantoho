@@ -1,6 +1,6 @@
 ### 👋 你好
 
-<img align="right" width="150" src="./icons/biplane_1.png" alt="Golang" />  
+<img align="right" width="260" src="./icons/biplane_1.png" alt="Golang" />  
 
 关于我的一些信息：
 - 💻 我是一名前端开发
