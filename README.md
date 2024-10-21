@@ -1,9 +1,9 @@
-### 👋 hi there  
+### 👋 你好
 
 <img align="right" width="300" src="./icons/biplane.svg" alt="Golang" />  
 
-I’m glad you visited my GitHub homepage, you might want to know some information about me:  
-- 💻 I'm a front-end developer currently expanding my tech stack  
+关于我的一些信息：
+- 💻 我是一名前端开发
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
