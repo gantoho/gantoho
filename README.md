@@ -1,8 +1,8 @@
-### xx
+### Hi👋
 
 <img align="right" width="260" src="./icons/biplane_1.png" alt="Golang" />  
 
-xx
+<strong>Brothers, I'm back.</strong>🤝
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
